@@ -1,0 +1,29 @@
+{
+  "scene": "MeshPrimitiveModes",
+  "slug": "MeshPrimitiveModes",
+  "camera": null,
+  "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/MeshPrimitiveModes/glTF/MeshPrimitiveModes.gltf",
+  "load_context": "url",
+  "load_seconds": 0.136,
+  "fps": 2080.4555,
+  "background": "sky",
+  "environment": null,
+  "ibl_intensity": null,
+  "framing": {
+    "yaw": 0.0,
+    "elevation": 0.0,
+    "tilt": 0.0,
+    "margin": 0.95
+  },
+  "anim_time": null,
+  "frames": 8,
+  "delay": 0.5,
+  "size": [
+    900,
+    640
+  ],
+  "git": "4684816-dirty",
+  "rendered_at": "2026-07-17T01:39:11",
+  "gl_renderer": "NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2",
+  "gl_version": "4.6.0 NVIDIA 580.159.03"
+}

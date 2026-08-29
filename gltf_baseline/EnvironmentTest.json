@@ -1,0 +1,29 @@
+{
+  "scene": "EnvironmentTest",
+  "slug": "EnvironmentTest",
+  "camera": null,
+  "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/EnvironmentTest/glTF/EnvironmentTest.gltf",
+  "load_context": "url",
+  "load_seconds": 0.382,
+  "fps": 2479.5986,
+  "background": "cube",
+  "environment": "brown_photostudio_02",
+  "ibl_intensity": "1.0",
+  "framing": {
+    "yaw": 0.0,
+    "elevation": 0.0,
+    "tilt": 0.0,
+    "margin": 0.9
+  },
+  "anim_time": null,
+  "frames": 8,
+  "delay": 0.5,
+  "size": [
+    900,
+    640
+  ],
+  "git": "4684816-dirty",
+  "rendered_at": "2026-07-17T01:39:11",
+  "gl_renderer": "NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2",
+  "gl_version": "4.6.0 NVIDIA 580.159.03"
+}

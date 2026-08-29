@@ -1,0 +1,29 @@
+{
+  "scene": "IridescenceDielectricSpheres",
+  "slug": "IridescenceDielectricSpheres",
+  "camera": null,
+  "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/IridescenceDielectricSpheres/glTF/IridescenceDielectricSpheres.gltf",
+  "load_context": "url",
+  "load_seconds": 0.425,
+  "fps": 116.9568,
+  "background": "cube",
+  "environment": "/workspaces/OpenGL-dev/openglcontext/OpenGLContext/resources/environment/studio_",
+  "ibl_intensity": "0.7",
+  "framing": {
+    "yaw": 0.5,
+    "elevation": 0.28,
+    "tilt": -0.12,
+    "margin": 1.2
+  },
+  "anim_time": null,
+  "frames": 8,
+  "delay": 0.5,
+  "size": [
+    900,
+    640
+  ],
+  "git": "4684816-dirty",
+  "rendered_at": "2026-07-17T03:10:44",
+  "gl_renderer": "NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2",
+  "gl_version": "4.6.0 NVIDIA 580.159.03"
+}

@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+
+# What the comparison tool writes beside a baseline while it runs; only the
+# canonical <name>.png belongs here.
+*_diff.png
+*_result.png
+*_reference.png
+debug_*.png

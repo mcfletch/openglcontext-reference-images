@@ -1,0 +1,35 @@
+{
+  "scene": "Sponza",
+  "slug": "Sponza",
+  "camera": null,
+  "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/Sponza/glTF/Sponza.gltf",
+  "load_context": "url",
+  "load_seconds": 0.705,
+  "fps": 463.4101,
+  "background": "sky",
+  "environment": null,
+  "ibl_intensity": null,
+  "framing": {
+    "eye": [
+      11.0,
+      -3.5,
+      1.5
+    ],
+    "look_at": [
+      -13.0,
+      1.0,
+      -5.0
+    ]
+  },
+  "anim_time": null,
+  "frames": 8,
+  "delay": 0.5,
+  "size": [
+    900,
+    640
+  ],
+  "git": "6551193-dirty",
+  "rendered_at": "2026-08-04T05:27:46",
+  "gl_renderer": "NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2",
+  "gl_version": "4.6.0 NVIDIA 580.173.02"
+}
