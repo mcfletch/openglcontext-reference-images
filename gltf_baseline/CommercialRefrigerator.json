@@ -4,8 +4,8 @@
   "camera": null,
   "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/CommercialRefrigerator/glTF-Binary/CommercialRefrigerator.glb",
   "load_context": "url",
-  "load_seconds": 0.193,
-  "fps": 1462.7709,
+  "load_seconds": 0.107,
+  "fps": 2284.5498,
   "background": "cube",
   "environment": "/workspaces/OpenGL-dev/openglcontext/OpenGLContext/resources/environment/pimbackground_",
   "ibl_intensity": "0.9",
@@ -15,15 +15,15 @@
     "tilt": 0.0,
     "margin": 1.05
   },
-  "anim_time": null,
+  "anim_time": 4.0,
   "frames": 8,
   "delay": 0.5,
   "size": [
     900,
     640
   ],
-  "git": "4684816-dirty",
-  "rendered_at": "2026-07-17T01:39:11",
-  "gl_renderer": "NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2",
-  "gl_version": "4.6.0 NVIDIA 580.159.03"
+  "git": "58581f3-dirty",
+  "rendered_at": "2026-09-03T01:08:56",
+  "gl_renderer": "Radeon 8060S Graphics (radeonsi, gfx1151, LLVM 20.1.2, DRM 3.64, 7.0.0-28-generic)",
+  "gl_version": "4.6 (Core Profile) Mesa 25.2.8-0ubuntu0.24.04.2"
 }
