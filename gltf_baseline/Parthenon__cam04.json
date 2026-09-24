@@ -4,8 +4,8 @@
   "camera": 4,
   "url": "/workspaces/OpenGL-dev/parthenon/parthenon.glb",
   "load_context": "local",
-  "load_seconds": 0.176,
-  "fps": 260.1685,
+  "load_seconds": 0.078,
+  "fps": 74.5139,
   "background": "sky",
   "environment": null,
   "ibl_intensity": null,
@@ -22,8 +22,8 @@
     900,
     640
   ],
-  "git": "4684816-dirty",
-  "rendered_at": "2026-07-17T01:39:11",
-  "gl_renderer": "NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2",
-  "gl_version": "4.6.0 NVIDIA 580.159.03"
+  "git": "9d52e41-dirty",
+  "rendered_at": "2026-09-24T22:40:57",
+  "gl_renderer": "Radeon 8060S Graphics (radeonsi, gfx1151, LLVM 20.1.2, DRM 3.64, 7.0.0-31-generic)",
+  "gl_version": "4.6 (Core Profile) Mesa 25.2.8-0ubuntu0.24.04.2"
 }
