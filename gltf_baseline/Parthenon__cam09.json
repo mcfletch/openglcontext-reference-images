@@ -4,8 +4,8 @@
   "camera": 9,
   "url": "/workspaces/OpenGL-dev/parthenon/parthenon.glb",
   "load_context": "local",
-  "load_seconds": 0.074,
-  "fps": 81.9276,
+  "load_seconds": 0.153,
+  "fps": 74.5031,
   "background": "sky",
   "environment": null,
   "ibl_intensity": null,
@@ -22,8 +22,8 @@
     900,
     640
   ],
-  "git": "9d52e41-dirty",
-  "rendered_at": "2026-09-24T22:40:57",
+  "git": "4c8a55aa-dirty",
+  "rendered_at": "2026-09-27T01:18:49",
   "gl_renderer": "Radeon 8060S Graphics (radeonsi, gfx1151, LLVM 20.1.2, DRM 3.64, 7.0.0-31-generic)",
   "gl_version": "4.6 (Core Profile) Mesa 25.2.8-0ubuntu0.24.04.2"
 }
