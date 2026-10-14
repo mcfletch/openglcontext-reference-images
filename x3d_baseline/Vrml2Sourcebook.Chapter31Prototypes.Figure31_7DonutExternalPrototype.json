@@ -1,0 +1,31 @@
+{
+  "scene": "Vrml2Sourcebook/Chapter31Prototypes/Figure31_7DonutExternalPrototype",
+  "slug": "Vrml2Sourcebook.Chapter31Prototypes.Figure31_7DonutExternalPrototype",
+  "document": "/home/mcfletch/.cache/pyvrml97/x3d-corpus/www.web3d.org/x3d/content/examples/Vrml2Sourcebook/Chapter31Prototypes/Figure31_7DonutExternalPrototype.x3d",
+  "problems": [
+    "error: ROUTE to Donut.crossSectionRadius, which is initializeOnly"
+  ],
+  "viewpoint": {
+    "description": "Click to pick a size",
+    "DEF": ""
+  },
+  "loads_waited": false,
+  "frames": 8,
+  "size": [
+    792,
+    465
+  ],
+  "git": "6361f148-dirty",
+  "rendered_at": "2026-10-13T03:24:22",
+  "gl_renderer": "Radeon 8060S Graphics (radeonsi, gfx1151, LLVM 20.1.2, DRM 3.64, 7.0.0-38-generic)",
+  "gl_version": "4.6 (Core Profile) Mesa 25.2.8-0ubuntu0.24.04.2",
+  "reference": "X_ITE 16.4.3",
+  "reference_errors": [
+    "JavaScript Error in Script 'DonutMakerInternalScript', in function 'initialize'\nworld url is 'http://127.0.0.1:38851/scene/Vrml2Sourcebook/Chapter31Prototypes/Figure31_6DonutPrototype.wrl#Donut':",
+    "TypeError: Cannot set properties of undefined (setting '0')\n    at generateCrossSection (eval at <anonymous> (eval at ue (http://127.0.0.1:38851/x_ite/assets/components/ScriptingComponent.min.js:2:1526)), <anonymous>:29:31)\n    at Proxy.initialize (eval at <anonymous> (eval at ue (http://127.0.0.1:38851/x_ite/assets/components/ScriptingComponent.min.js:2:1526)), <anonymous>:5:5)\n    at Oe.call__ (http://127.0.0.1:38851/x_ite/assets/components/ScriptingComponent.min.js:2:8298)\n    at Oe.initialize__ (http://127.0.0.1:38851/x_ite/assets/components/ScriptingComponent.min.js:2:8244)\n    at Gd.dataCallback (http://127.0.0.1:38851/x_ite/assets/components/ScriptingComponent.min.js:2:3776)\n    at Gd.loadDocumentAsync (http://127.0.0.1:38851/x_ite/x_ite.min.js:2:604455)\n    at Gd.loadDocument (http://127.0.0.1:38851/x_ite/x_ite.min.js:2:604147)\n    at Oe.loadData (http://127.0.0.1:38851/x_ite/assets/components/ScriptingComponent.min.js:2:3685)",
+    "JavaScript Error in Script 'DonutMakerInternalScript', in function 'initialize'\nworld url is 'http://127.0.0.1:38851/scene/Vrml2Sourcebook/Chapter31Prototypes/Figure31_6DonutPrototype.wrl#Donut':",
+    "TypeError: Cannot set properties of undefined (setting '0')\n    at generateCrossSection (eval at <anonymous> (eval at ue (http://127.0.0.1:38851/x_ite/assets/components/ScriptingComponent.min.js:2:1526)), <anonymous>:29:31)\n    at Proxy.initialize (eval at <anonymous> (eval at ue (http://127.0.0.1:38851/x_ite/assets/components/ScriptingComponent.min.js:2:1526)), <anonymous>:5:5)\n    at Oe.call__ (http://127.0.0.1:38851/x_ite/assets/components/ScriptingComponent.min.js:2:8298)\n    at Oe.initialize__ (http://127.0.0.1:38851/x_ite/assets/components/ScriptingComponent.min.js:2:8244)\n    at Gd.dataCallback (http://127.0.0.1:38851/x_ite/assets/components/ScriptingComponent.min.js:2:3776)\n    at Gd.loadDocumentAsync (http://127.0.0.1:38851/x_ite/x_ite.min.js:2:604455)\n    at Gd.loadDocument (http://127.0.0.1:38851/x_ite/x_ite.min.js:2:604147)\n    at Oe.loadData (http://127.0.0.1:38851/x_ite/assets/components/ScriptingComponent.min.js:2:3685)"
+  ],
+  "upstream": "/workspaces/OpenGL-dev/openglcontext/tests/reference_images/x3d_xite/Vrml2Sourcebook.Chapter31Prototypes.Figure31_7DonutExternalPrototype.png",
+  "reference_difference": 0.060823286629738245
+}

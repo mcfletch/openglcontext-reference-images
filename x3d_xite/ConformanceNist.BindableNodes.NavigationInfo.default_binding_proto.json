@@ -1,0 +1,18 @@
+{
+  "ok": true,
+  "errors": [
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: net::ERR_FAILED",
+    "Script: Couldn't load any of the 2 URLs, tried in this order:\n  1. 'default_binding_proto.js' \u2192 http://127.0.0.1:35959/scene/ConformanceNist/BindableNodes/NavigationInfo/default_binding_proto.js: Not Found\n  2. 'https://www.web3d.org/x3d/content/examples/ConformanceNist/BindableNodes/NavigationInfo/default_binding_proto.js': Failed to fetch\n Error: Not Found\n    at Gd.checkResponse (http://127.0.0.1:35959/x_ite/x_ite.min.js:2:606482)\n    at Gd.loadDocumentAsync (http://127.0.0.1:35959/x_ite/x_ite.min.js:2:605816) TypeError: Failed to fetch\n    at Gd.loadDocumentAsync (http://127.0.0.1:35959/x_ite/x_ite.min.js:2:605836)\n    at Gd.loadDocumentError (http://127.0.0.1:35959/x_ite/x_ite.min.js:2:606577)"
+  ],
+  "world_time": 946684800.15,
+  "seconds": 0.7569905980490148,
+  "scene": "ConformanceNist/BindableNodes/NavigationInfo/default_binding_proto",
+  "x_ite": "16.4.3",
+  "chromium": "156.0.8078.4",
+  "size": [
+    792,
+    465
+  ],
+  "rendered_at": "2026-10-14T02:11:37"
+}

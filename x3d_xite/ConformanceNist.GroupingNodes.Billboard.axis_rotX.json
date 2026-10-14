@@ -1,0 +1,14 @@
+{
+  "ok": true,
+  "errors": [],
+  "world_time": 946684800.15,
+  "seconds": 0.49686682102037594,
+  "scene": "ConformanceNist/GroupingNodes/Billboard/axis_rotX",
+  "x_ite": "16.4.3",
+  "chromium": "156.0.8078.4",
+  "size": [
+    792,
+    465
+  ],
+  "rendered_at": "2026-10-14T02:11:53"
+}

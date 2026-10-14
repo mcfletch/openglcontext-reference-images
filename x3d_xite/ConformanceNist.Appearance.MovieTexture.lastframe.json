@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "errors": [
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: net::ERR_FAILED"
+  ],
+  "world_time": 946684800.15,
+  "seconds": 0.4862765120342374,
+  "scene": "ConformanceNist/Appearance/MovieTexture/lastframe",
+  "x_ite": "16.4.3",
+  "chromium": "156.0.8078.4",
+  "size": [
+    792,
+    465
+  ],
+  "rendered_at": "2026-10-14T02:11:23"
+}

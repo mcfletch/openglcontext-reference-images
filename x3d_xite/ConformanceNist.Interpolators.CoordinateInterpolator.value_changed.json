@@ -1,0 +1,16 @@
+{
+  "ok": true,
+  "errors": [
+    "XML Parser: Unknown node type 'Script'. You probably have insufficient component/profile statements and/or an inappropriate specification version."
+  ],
+  "world_time": 946684800.15,
+  "seconds": 0.30199403199367225,
+  "scene": "ConformanceNist/Interpolators/CoordinateInterpolator/value_changed",
+  "x_ite": "16.4.3",
+  "chromium": "156.0.8078.4",
+  "size": [
+    792,
+    465
+  ],
+  "rendered_at": "2026-10-14T02:11:48"
+}

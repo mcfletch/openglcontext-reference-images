@@ -4,8 +4,8 @@
   "camera": null,
   "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/PotOfCoals/glTF-Binary/PotOfCoals.glb",
   "load_context": "url",
-  "load_seconds": 0.22,
-  "fps": 1754.9278,
+  "load_seconds": 0.149,
+  "fps": 1890.4305,
   "background": "cube",
   "environment": "/workspaces/OpenGL-dev/openglcontext/OpenGLContext/resources/environment/pimbackground_",
   "ibl_intensity": "0.9",
@@ -22,8 +22,8 @@
     900,
     640
   ],
-  "git": "4684816-dirty",
-  "rendered_at": "2026-07-17T01:39:11",
-  "gl_renderer": "NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2",
-  "gl_version": "4.6.0 NVIDIA 580.159.03"
+  "git": "97ac5fc7-dirty",
+  "rendered_at": "2026-10-08T02:31:53",
+  "gl_renderer": "Radeon 8060S Graphics (radeonsi, gfx1151, LLVM 20.1.2, DRM 3.64, 7.0.0-31-generic)",
+  "gl_version": "4.6 (Core Profile) Mesa 25.2.8-0ubuntu0.24.04.2"
 }

@@ -1,0 +1,32 @@
+{
+  "scene": "Vrml2Sourcebook/Chapter30Scripts/Figure30_5ScriptTorusBuilder",
+  "slug": "Vrml2Sourcebook.Chapter30Scripts.Figure30_5ScriptTorusBuilder",
+  "document": "/home/mcfletch/.cache/pyvrml97/x3d-corpus/www.web3d.org/x3d/content/examples/Vrml2Sourcebook/Chapter30Scripts/Figure30_5ScriptTorusBuilder.x3d",
+  "problems": [
+    "warning: 2 Script nodes read; scripts are kept and not run"
+  ],
+  "viewpoint": {
+    "description": "Torus",
+    "DEF": ""
+  },
+  "loads_waited": false,
+  "frames": 8,
+  "size": [
+    792,
+    465
+  ],
+  "git": "6361f148-dirty",
+  "rendered_at": "2026-10-13T03:24:22",
+  "gl_renderer": "Radeon 8060S Graphics (radeonsi, gfx1151, LLVM 20.1.2, DRM 3.64, 7.0.0-38-generic)",
+  "gl_version": "4.6 (Core Profile) Mesa 25.2.8-0ubuntu0.24.04.2",
+  "reference": "X_ITE 16.4.3",
+  "reference_errors": [
+    "JavaScript Error in Script 'DonutMakerInternalScript', in function 'initialize'\nworld url is 'http://127.0.0.1:46761/scene/Vrml2Sourcebook/Chapter30Scripts/Figure30_5ScriptTorusBuilder.x3d':",
+    "TypeError: Cannot set properties of undefined (setting '0')\n    at generateCrossSection (eval at <anonymous> (eval at ue (http://127.0.0.1:46761/x_ite/assets/components/ScriptingComponent.min.js:2:1526)), <anonymous>:24:36)\n    at Proxy.initialize (eval at <anonymous> (eval at ue (http://127.0.0.1:46761/x_ite/assets/components/ScriptingComponent.min.js:2:1526)), <anonymous>:4:5)\n    at Oe.call__ (http://127.0.0.1:46761/x_ite/assets/components/ScriptingComponent.min.js:2:8298)\n    at Oe.initialize__ (http://127.0.0.1:46761/x_ite/assets/components/ScriptingComponent.min.js:2:8244)\n    at Gd.dataCallback (http://127.0.0.1:46761/x_ite/assets/components/ScriptingComponent.min.js:2:3776)\n    at Gd.loadDocumentAsync (http://127.0.0.1:46761/x_ite/x_ite.min.js:2:604455)\n    at Gd.loadDocument (http://127.0.0.1:46761/x_ite/x_ite.min.js:2:604147)\n    at Oe.loadData (http://127.0.0.1:46761/x_ite/assets/components/ScriptingComponent.min.js:2:3685)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: net::ERR_FAILED",
+    "Script: Couldn't load any of the 2 URLs, tried in this order:\n  1. 'donutmaker.js' \u2192 http://127.0.0.1:46761/scene/Vrml2Sourcebook/Chapter30Scripts/donutmaker.js: Not Found\n  2. 'https://www.web3d.org/x3d/content/examples/Vrml2Sourcebook/Chapter30Scripts/donutmaker.js': Failed to fetch\n Error: Not Found\n    at Gd.checkResponse (http://127.0.0.1:46761/x_ite/x_ite.min.js:2:606482)\n    at Gd.loadDocumentAsync (http://127.0.0.1:46761/x_ite/x_ite.min.js:2:605816) TypeError: Failed to fetch\n    at Gd.loadDocumentAsync (http://127.0.0.1:46761/x_ite/x_ite.min.js:2:605836)\n    at Gd.loadDocumentError (http://127.0.0.1:46761/x_ite/x_ite.min.js:2:606577)"
+  ],
+  "upstream": "/workspaces/OpenGL-dev/openglcontext/tests/reference_images/x3d_xite/Vrml2Sourcebook.Chapter30Scripts.Figure30_5ScriptTorusBuilder.png",
+  "reference_difference": 0.07847290105354622
+}

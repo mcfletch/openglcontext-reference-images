@@ -1,0 +1,19 @@
+{
+  "ok": true,
+  "errors": [
+    "Script: Couldn't load URL 'ecmascript: function set_fraction( fraction eventTime ) { value_changed[0] = fraction; value_changed[1] = 0.0; value_cha\u2026'. SyntaxError: Unexpected identifier 'eventTime'\n    at Proxy.eval (eval at ue (http://127.0.0.1:35295/x_ite/assets/components/ScriptingComponent.min.js:2:1526), <anonymous>:16:7)\n    at ue (http://127.0.0.1:35295/x_ite/assets/components/ScriptingComponent.min.js:2:1809)\n    at Oe.evaluate (http://127.0.0.1:35295/x_ite/assets/components/ScriptingComponent.min.js:2:7245)\n    at Oe.createContext (http://127.0.0.1:35295/x_ite/assets/components/ScriptingComponent.min.js:2:7104)\n    at Oe.initialize__ (http://127.0.0.1:35295/x_ite/assets/components/ScriptingComponent.min.js:2:7395)\n    at Gd.dataCallback (http://127.0.0.1:35295/x_ite/assets/components/ScriptingComponent.min.js:2:3776)\n    at Gd.loadDocumentAsync (http://127.0.0.1:35295/x_ite/x_ite.min.js:2:604455)\n    at Gd.loadDocument (http://127.0.0.1:35295/x_ite/x_ite.min.js:2:604147)\n    at Oe.loadData (http://127.0.0.1:35295/x_ite/assets/components/ScriptingComponent.min.js:2:3685)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: net::ERR_FAILED",
+    "Script: Couldn't load any of the 2 URLs, tried in this order:\n  1. 'Figure30_1ScriptSlidingBall.js' \u2192 http://127.0.0.1:35295/scene/Vrml2Sourcebook/Chapter30Scripts/Figure30_1ScriptSlidingBall.js: Not Found\n  2. 'https://www.web3d.org/x3d/content/examples/Vrml2Sourcebook/Chapter30Scripts/Figure30_1ScriptSlidingBall.js': Failed to fetch\n Error: Not Found\n    at Gd.checkResponse (http://127.0.0.1:35295/x_ite/x_ite.min.js:2:606482)\n    at Gd.loadDocumentAsync (http://127.0.0.1:35295/x_ite/x_ite.min.js:2:605816) TypeError: Failed to fetch\n    at Gd.loadDocumentAsync (http://127.0.0.1:35295/x_ite/x_ite.min.js:2:605836)\n    at Gd.loadDocumentError (http://127.0.0.1:35295/x_ite/x_ite.min.js:2:606577)"
+  ],
+  "world_time": 946684800.15,
+  "seconds": 0.4511494319885969,
+  "scene": "Vrml2Sourcebook/Chapter30Scripts/Figure30_1ScriptSlidingBall",
+  "x_ite": "16.4.3",
+  "chromium": "156.0.8078.4",
+  "size": [
+    792,
+    465
+  ],
+  "rendered_at": "2026-10-14T02:12:35"
+}

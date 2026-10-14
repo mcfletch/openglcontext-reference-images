@@ -1,0 +1,25 @@
+{
+  "scene": "ConformanceNist/Interpolators/CoordinateInterpolator/value_changed",
+  "slug": "ConformanceNist.Interpolators.CoordinateInterpolator.value_changed",
+  "document": "/home/mcfletch/.cache/pyvrml97/x3d-corpus/www.web3d.org/x3d/content/examples/ConformanceNist/Interpolators/CoordinateInterpolator/value_changed.x3d",
+  "problems": [
+    "warning: 1 Script node read; scripts are kept and not run"
+  ],
+  "viewpoint": null,
+  "loads_waited": false,
+  "frames": 8,
+  "size": [
+    792,
+    465
+  ],
+  "git": "6361f148-dirty",
+  "rendered_at": "2026-10-13T03:24:22",
+  "gl_renderer": "Radeon 8060S Graphics (radeonsi, gfx1151, LLVM 20.1.2, DRM 3.64, 7.0.0-38-generic)",
+  "gl_version": "4.6 (Core Profile) Mesa 25.2.8-0ubuntu0.24.04.2",
+  "reference": "X_ITE 16.4.3",
+  "reference_errors": [
+    "XML Parser: Unknown node type 'Script'. You probably have insufficient component/profile statements and/or an inappropriate specification version."
+  ],
+  "upstream": "/workspaces/OpenGL-dev/openglcontext/tests/reference_images/x3d_xite/ConformanceNist.Interpolators.CoordinateInterpolator.value_changed.png",
+  "reference_difference": 0.0
+}

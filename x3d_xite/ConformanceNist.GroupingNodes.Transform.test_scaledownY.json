@@ -1,0 +1,14 @@
+{
+  "ok": true,
+  "errors": [],
+  "world_time": 946684800.15,
+  "seconds": 0.33853345800889656,
+  "scene": "ConformanceNist/GroupingNodes/Transform/test_scaledownY",
+  "x_ite": "16.4.3",
+  "chromium": "156.0.8078.4",
+  "size": [
+    792,
+    465
+  ],
+  "rendered_at": "2026-10-14T02:12:10"
+}

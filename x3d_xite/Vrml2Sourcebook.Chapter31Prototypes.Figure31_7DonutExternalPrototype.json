@@ -1,0 +1,19 @@
+{
+  "ok": true,
+  "errors": [
+    "JavaScript Error in Script 'DonutMakerInternalScript', in function 'initialize'\nworld url is 'http://127.0.0.1:39731/scene/Vrml2Sourcebook/Chapter31Prototypes/Figure31_6DonutPrototype.wrl#Donut':",
+    "TypeError: Cannot set properties of undefined (setting '0')\n    at generateCrossSection (eval at <anonymous> (eval at ue (http://127.0.0.1:39731/x_ite/assets/components/ScriptingComponent.min.js:2:1526)), <anonymous>:29:31)\n    at Proxy.initialize (eval at <anonymous> (eval at ue (http://127.0.0.1:39731/x_ite/assets/components/ScriptingComponent.min.js:2:1526)), <anonymous>:5:5)\n    at Oe.call__ (http://127.0.0.1:39731/x_ite/assets/components/ScriptingComponent.min.js:2:8298)\n    at Oe.initialize__ (http://127.0.0.1:39731/x_ite/assets/components/ScriptingComponent.min.js:2:8244)\n    at Gd.dataCallback (http://127.0.0.1:39731/x_ite/assets/components/ScriptingComponent.min.js:2:3776)\n    at Gd.loadDocumentAsync (http://127.0.0.1:39731/x_ite/x_ite.min.js:2:604455)\n    at Gd.loadDocument (http://127.0.0.1:39731/x_ite/x_ite.min.js:2:604147)\n    at Oe.loadData (http://127.0.0.1:39731/x_ite/assets/components/ScriptingComponent.min.js:2:3685)",
+    "JavaScript Error in Script 'DonutMakerInternalScript', in function 'initialize'\nworld url is 'http://127.0.0.1:39731/scene/Vrml2Sourcebook/Chapter31Prototypes/Figure31_6DonutPrototype.wrl#Donut':",
+    "TypeError: Cannot set properties of undefined (setting '0')\n    at generateCrossSection (eval at <anonymous> (eval at ue (http://127.0.0.1:39731/x_ite/assets/components/ScriptingComponent.min.js:2:1526)), <anonymous>:29:31)\n    at Proxy.initialize (eval at <anonymous> (eval at ue (http://127.0.0.1:39731/x_ite/assets/components/ScriptingComponent.min.js:2:1526)), <anonymous>:5:5)\n    at Oe.call__ (http://127.0.0.1:39731/x_ite/assets/components/ScriptingComponent.min.js:2:8298)\n    at Oe.initialize__ (http://127.0.0.1:39731/x_ite/assets/components/ScriptingComponent.min.js:2:8244)\n    at Gd.dataCallback (http://127.0.0.1:39731/x_ite/assets/components/ScriptingComponent.min.js:2:3776)\n    at Gd.loadDocumentAsync (http://127.0.0.1:39731/x_ite/x_ite.min.js:2:604455)\n    at Gd.loadDocument (http://127.0.0.1:39731/x_ite/x_ite.min.js:2:604147)\n    at Oe.loadData (http://127.0.0.1:39731/x_ite/assets/components/ScriptingComponent.min.js:2:3685)"
+  ],
+  "world_time": 946684800.15,
+  "seconds": 1.2818782879621722,
+  "scene": "Vrml2Sourcebook/Chapter31Prototypes/Figure31_7DonutExternalPrototype",
+  "x_ite": "16.4.3",
+  "chromium": "156.0.8078.4",
+  "size": [
+    792,
+    465
+  ],
+  "rendered_at": "2026-10-14T02:12:23"
+}
